@@ -1,0 +1,6 @@
+Hi this is my file - user1
+<<<<<<< HEAD
+change made by 2nd user
+=======
+change made by user 2
+>>>>>>> 98c31e4 (modified by user2)
